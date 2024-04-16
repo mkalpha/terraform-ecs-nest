@@ -1,4 +1,4 @@
-# terrafoirm-ecs-nest
+# terraform-ecs-nest
 
 ## Description
 
